@@ -1,2 +1,4 @@
 # DesignCV
-# build with txs:///pdflatex
+build with txs:///pdflatex
+put YourPic.jpg into the PageDesign folder before build.
+
